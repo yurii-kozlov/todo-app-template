@@ -1,12 +1,6 @@
-Todo App Template
-This Todo App Template is a simple and scalable foundation for building a todo list application. It includes basic task management functionality and is designed for easy customization.
+## Todo App Template
 
-Features
-Add, edit, delete tasks
-Mark tasks as complete
-Filter tasks by status
-Responsive design
-Local storage persistence
+This Todo App Template is a simple and scalable foundation for building a todo list application. It includes basic task management functionality and is designed for easy customization.
 
 ## Getting Started
 
