@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Todo App Template
+This Todo App Template is a simple and scalable foundation for building a todo list application. It includes basic task management functionality and is designed for easy customization.
+
+Features
+Add, edit, delete tasks
+Mark tasks as complete
+Filter tasks by status
+Responsive design
+Local storage persistence
 
 ## Getting Started
 
